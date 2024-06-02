@@ -10,3 +10,5 @@ GET [https:](http://localhost:3000)/person/id
 PATCH [https:](http://localhost:3000)/person/id
 DELETE [https:](http://localhost:3000)/person/id
 
+start with:
+npm start
